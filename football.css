@@ -1,0 +1,362 @@
+body{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+
+
+}
+header{
+    background-color: #2d25a0;
+    width: 100%;
+    height: calc(100vh - 80px);
+    display: block;
+    height: 2500px;
+    
+
+}
+
+header:hover{
+    background-color:darkcyan;
+
+}
+
+
+h2{
+    color:#18191f;
+    font-size: 110px;
+
+
+}
+
+p{
+    font-size: 63px;
+    color: #656565;
+    text-align: justify;
+    font-style: oblique;
+
+}
+header nav{
+    padding-top: 300px;
+    width: 2500px;
+    margin-left: 620px;
+
+}
+
+header nav ul{
+    list-style: none;
+    display: flex;
+    
+
+}
+header nav ul li{
+    padding-right: 130px;
+
+}
+
+header nav ul li A:hover{
+    
+    color:#656565;
+  
+
+}
+
+
+header nav ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 80px; 
+
+}
+.login{
+
+    
+}
+.login button{
+    background-color: #e03c6d;
+    width: 700px;
+    height: 200px;
+    font-size: 98px;
+    float: right;
+    margin-right: 720px;
+    margin-top: -156px;
+    color: #ffffff;
+
+}
+
+.login button:hover{
+    background-color:sandybrown;
+
+}
+
+h1{
+    font-size: 160px;
+    color: #ffffff;
+}
+h1:hover{
+  color: maroon;
+
+}
+
+.header_left{
+    float: left;
+    margin-left: 650px;
+    margin-top: 400px;
+
+
+}
+
+.header_left a{
+    color: #ffffff;
+    font-size: 98px;
+    text-decoration: none;
+    padding-left: 55px;
+
+
+}
+.watch{
+    width: 700px;
+    height: 200px;
+    background-color: #e03c6d;
+    margin-top: 170px;
+
+}
+.watch:hover{
+    background-color:sandybrown;
+
+}
+.header_right{
+    float: right;
+    margin-right: 406px;
+    margin-top: 279px;
+
+
+}
+.header_right img{
+    width: 2000px;
+    height: 1500px;
+    padding-right: 65px;
+
+
+}
+
+
+nav{
+
+
+}
+
+
+.Content_Area{
+    width: 100%;
+    
+    margin: 0 auto;
+    background-color: #f6f6f6;
+    
+    
+
+}
+
+
+
+#player{
+    margin: 0 auto;
+    display: block;
+    width: 73%;
+    padding-top: 350px;
+    padding-bottom: 500px;
+   
+
+
+}
+#display{
+    display: flex;
+    margin-bottom: 230px;
+    width: 100%;
+
+
+}
+#box{
+    width: 1240px;
+    height: 1640px;
+    margin-right: 140px;
+    background-color: #ffffff;
+
+
+}
+img{
+    height: 970px;
+    width: 1102px;
+
+
+}
+.player{
+
+
+}
+ h2:hover{
+    color: #7a515d;
+
+}
+.nothing{
+    padding: 60px;
+    background-color: white;
+    height: 100%;
+
+}
+
+.highlight{
+    padding-left: 200px;
+    width: 78%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.highlight-left{
+    float: left;
+    width: 45%;
+    margin-top: 70px;
+
+
+
+}
+
+.highlight-left h1{
+    color: #0a0826;
+    font-size: 180px;
+
+
+}
+.highlight-left h1:hover{
+    color: mediumaquamarine;
+  
+}
+.highlight-left p{
+    height: 230px;
+    width: 80%;
+
+
+}
+.highlight-left a{
+    color: #ffffff;
+    font-size: 98px;
+    text-decoration: none;
+    padding-left: 55px;
+    
+
+}
+
+
+ .highlight-right{
+    float: right;
+    width: 55%;
+
+
+ }
+
+ .highlight-right img{
+    height: 1520px;
+    width: 2100px;
+    padding-left: 67px;
+
+
+ }
+
+ .background{
+    background-color: #f6f6f6;
+    height: 10400px;
+
+ }
+
+ .footer{
+
+    background-color: #f6f6f6;
+ }
+
+ .footer1{
+    width: 1900px;
+    display: block;
+    margin: 0 auto;
+
+
+ }
+
+ .footer1 img{
+    width: 1800px;
+    height: 500px;
+
+    
+}
+
+.iconn{
+
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 150px;
+
+}
+.iconn ul{
+    display: flex;
+
+}
+
+.iconn ul li{
+    
+    list-style: none;
+}
+#icon:hover{
+  color: plum;
+
+}
+
+.fa-instagram-square{
+  color: #d12e90;
+
+}
+.fa-futbol{
+    color: slategrey;
+
+    
+
+
+}
+.fa-twitter-square{
+    color:#1c99e6;
+
+
+}
+
+.fa-youtube{
+     color: red;
+
+}
+.footer3{
+    margin: auto;
+    
+    width: 1220px;
+
+
+}
+.footer3 p{
+    font-size: 104px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
